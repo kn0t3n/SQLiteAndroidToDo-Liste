@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo-Liste</string>
+    <string name="btnDelete">Löschen</string>
+    <string name="btnAdd">Hinzufügen</string>
+</resources>
